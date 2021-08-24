@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/genre-mixer/static/css/main.6ee9e8af.chunk.css",
+    "main.js": "/genre-mixer/static/js/main.71ac4cc1.chunk.js",
+    "main.js.map": "/genre-mixer/static/js/main.71ac4cc1.chunk.js.map",
+    "runtime-main.js": "/genre-mixer/static/js/runtime-main.f381d731.js",
+    "runtime-main.js.map": "/genre-mixer/static/js/runtime-main.f381d731.js.map",
+    "static/js/2.b4f19cb5.chunk.js": "/genre-mixer/static/js/2.b4f19cb5.chunk.js",
+    "static/js/2.b4f19cb5.chunk.js.map": "/genre-mixer/static/js/2.b4f19cb5.chunk.js.map",
+    "index.html": "/genre-mixer/index.html",
+    "static/css/main.6ee9e8af.chunk.css.map": "/genre-mixer/static/css/main.6ee9e8af.chunk.css.map",
+    "static/js/2.b4f19cb5.chunk.js.LICENSE.txt": "/genre-mixer/static/js/2.b4f19cb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f381d731.js",
+    "static/js/2.b4f19cb5.chunk.js",
+    "static/css/main.6ee9e8af.chunk.css",
+    "static/js/main.71ac4cc1.chunk.js"
+  ]
+}
