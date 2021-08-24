@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html,
+body {
+  @apply h-full;
+}
+body {
+  @apply p-10 bg-green-100;
+}

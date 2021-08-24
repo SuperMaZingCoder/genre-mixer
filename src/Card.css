@@ -1,0 +1,3 @@
+.Card {
+  @apply bg-gray-100 shadow-lg px-48 py-16 rounded-lg;
+}
